@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1014" height="1014" version="1.1" viewBox="0 0 268.28749 268.28751" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>VS Code Logo</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>VS Code Logo</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g>
+  <path transform="translate(0 -28.712)" d="m28.442 82.227-24.606 12.7c-2.563 1.4716-3.4395 2.9353-3.4395 3.7041v128.32c0 1.2898 1.2816 3.1419 1.8521 3.4395s24.449 12.485 25.4 12.964c1.9595 0.9509 3.8446 0.76887 4.4979 0.26458l63.499-50.006s101.6 101.61 101.6 101.6c1.1081 1.075 3.4313 1.0832 4.7624 0.52916 0 0 63.491-25.672 63.499-25.664 2.0338-1.1657 2.3812-2.4225 2.3812-3.7041v-207.17c0-2.4804-1.8521-3.3652-3.9687-4.2333 0 0-61.658-24.861-61.647-24.871-1.6928-0.69849-3.6541-0.79586-5.027 0.52916 0 0.0082-101.6 101.6-101.6 101.6l-62.441-49.212c-2.3979-1.9264-4.7624-0.79374-4.7624-0.79374z" fill="#fff" fill-rule="evenodd" stroke-width=".26458"/>
+ </g>
+ <g>
+  <path transform="translate(0 -28.712)" d="m30.03 85.932-25.4 13.229v127.53l25.664 13.229 65.616-51.858 104.24 104.24 63.764-25.929v-206.9l-63.764-25.929-104.24 104.24z" fill="#0076bf" fill-rule="evenodd"/>
+ </g>
+ <g fill="#fff" fill-rule="evenodd" stroke-width=".26458">
+  <path transform="translate(0 -28.712)" d="m30.03 122.97v80.432l39.422-40.481z"/>
+  <path transform="translate(0 -28.712)" d="m131.1 162.92 68.526 53.445v-107.15z"/>
+ </g>
+</svg>
